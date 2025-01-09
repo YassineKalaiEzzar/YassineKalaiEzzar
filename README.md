@@ -1,16 +1,17 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on<br>Dedicated computer science student with foundational knowledge in software development and web development. Initial experience with Java and in creating web applications. Familiar with frontend development using HTML, CSS, and JavaScript, as well as backend development with PHP and managing databases with MySQL. Eager to further expand my skills and deepen them through hands-on projects.<br><br>👯 I’m looking to collaborate on<br>Projects in the field of software and web development, particularly those involving both frontend and backend development. I am open to collaborating on innovative ideas and creating user-friendly applications.<br><br>🤝 I’m looking for help with<br>Deepening my knowledge in advanced technologies such as React, Node.js, and Docker. I am also seeking mentors or colleagues who can help me improve my skills in software architecture and agile development.<br><br>🌱 I’m currently learning<br><br>React for frontend development<br><br>Node.js for backend development<br><br>Docker for application containerization<br><br>Python for data science and automation<br><br>💬 Ask me about<br><br>Java programming<br><br>Web development with HTML, CSS, JavaScript, and PHP<br><br>Databases and SQL<br><br>Videography and video editing with Adobe Premiere Pro<br><br>Photography and image editing with Adobe Photoshop Lightroom<br><br>⚡ Fun fact<br>I have a passion for creative projects, whether in software development, photography, or videography. This diversity helps me approach problems from different perspectives and find innovative solutions.
 
-<!--
-**YassineKalaiEzzar/YassineKalaiEzzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Yassine) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yassine-kalai-ezzar-39b03a257) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YassineKalaiEzzar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YassineKalaiEzzar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YassineKalaiEzzar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=YassineKalaiEzzar&icon=0&color=0)](https://visitcount.itsvg.in)
+
