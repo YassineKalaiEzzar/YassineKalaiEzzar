@@ -1,6 +1,28 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Dedicated computer science student with foundational knowledge in software development and web development. Initial experience with Java and in creating web applications. Familiar with frontend development using HTML, CSS, and JavaScript, as well as backend development with PHP and managing databases with MySQL. Eager to further expand my skills and deepen them through hands-on projects.<br><br>👯 I’m looking to collaborate on<br>Projects in the field of software and web development, particularly those involving both frontend and backend development. I am open to collaborating on innovative ideas and creating user-friendly applications.<br><br>🤝 I’m looking for help with<br>Deepening my knowledge in advanced technologies such as React, Node.js, and Docker. I am also seeking mentors or colleagues who can help me improve my skills in software architecture and agile development.<br><br>🌱 I’m currently learning<br><br>React for frontend development<br><br>Node.js for backend development<br><br>Docker for application containerization<br><br>Python for data science and automation<br><br>💬 Ask me about<br><br>Java programming<br><br>Web development with HTML, CSS, JavaScript, and PHP<br><br>Databases and SQL<br><br>Videography and video editing with Adobe Premiere Pro<br><br>Photography and image editing with Adobe Photoshop Lightroom<br><br>⚡ Fun fact<br>I have a passion for creative projects, whether in software development, photography, or videography. This diversity helps me approach problems from different perspectives and find innovative solutions.
+#💫 About Me
+🔭 I’m currently working on
+Building full‑stack web applications with Spring Boot (Java) on the backend and React on the frontend, backed by MySQL databases. I enjoy creating efficient, user‑friendly solutions that solve real‑world problems.
 
+🌱 I’m currently learning
+Advanced Spring ecosystem (Security, Cloud, Microservices), React performance optimization, and Docker for containerization. I’m also exploring DevOps practices to streamline deployment.
+
+👯 I’m looking to collaborate on
+Open‑source projects or innovative ideas that involve the Spring Boot + React + MySQL stack. If you have a project that needs a solid full‑stack foundation, let’s connect!
+
+🤝 I’m looking for help with
+Deepening my knowledge of software architecture, design patterns, and best practices in scalable application development. Mentorship or code reviews are always welcome.
+
+💬 Ask me about
+
+Building REST APIs with Spring Boot
+
+Crafting responsive UIs with React
+
+Database design and optimization with MySQL
+
+Integrating frontend and backend seamlessly
+
+⚡ Fun fact
+I’m also a passionate photographer and videographer – I love editing with Adobe Lightroom and Premiere Pro. This creative side helps me approach coding challenges with a fresh perspective.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Yassine) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yassine-kalai-ezzar-39b03a257) 
