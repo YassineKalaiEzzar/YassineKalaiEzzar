@@ -1,112 +1,98 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Yassine+Kalai+Ezzar;Full-Stack+Web+%26+Mobile+Developer;Spring+Boot+%E2%80%A2+React+%E2%80%A2+Flutter;I+ship+projects+from+idea+to+live+deployment" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=210&section=header&text=Yassine%20Kalai-Ezzar&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Founder%20of%20Sovanto%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Cologne&descSize=17&descAlignY=57&animation=fadeIn" width="100%" alt="Yassine Kalai-Ezzar" />
 
-<img src="https://komarev.com/ghpvc/?username=YassineKalaiEzzar&label=Profile%20views&color=7C3AED&style=flat" alt="Profile views" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&pause=1400&color=7C3AED&center=true&vCenter=true&width=620&lines=I+build+software+from+idea+to+production.;Spring+Boot+%C2%B7+React+%C2%B7+Next.js+%C2%B7+TypeScript;Currently+building+Sovanto+%E2%80%94+one+platform+for+small+businesses." alt="Typing intro" />
 
-</div>
-
----
-
-## 💫 About Me
-
-Full-stack developer building **web and mobile applications** end-to-end — from concept to live deployment. I work primarily with **Spring Boot** on the backend, **React** on the web, and **Flutter** on mobile, backed by **MySQL** and containerized with **Docker**.
-
-- 🔭 **Building** scalable full-stack apps with clean REST APIs and modern frontends
-- 📱 **Cross-platform** mobile development with Flutter (Android Studio)
-- 🌱 **Learning** deeper Spring (Security, Microservices, Cloud), React performance, and DevOps workflows
-- 🤝 **Open to collaborate** on open-source and modern full-stack projects
-- 💬 **Ask me about** REST API design, Spring Boot, React, Flutter, and database modeling
-- ⚡ **Fun fact** — also into photography & videography (Lightroom, Premiere Pro), which keeps my problem-solving creative
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **CALENDERA** | AI-native calendar platform — natural-language scheduling, Google Calendar sync, travel-aware conflict detection, and an email-scanning pipeline. | Spring Boot · React · PostgreSQL · Groq LLM |
-| **AutoBrain** | Workshop & auto-parts management system with barcode scanning for fast part identification and an AI assistant for smart part search. | React · Spring Boot · REST API |
-| **SmartMailer** | AI email-automation platform. *FlashApply* generates full job applications (cover letter, email, PDF) from a job URL in seconds. | Spring Boot · React · AI |
-
----
-
-## 💻 Tech Stack
-
-**Languages**
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=databricks&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23005571.svg?style=for-the-badge&logo=json&logoColor=white)
-![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Database, DevOps & Cloud**
-
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Railway](https://img.shields.io/badge/railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
-
-**Tools**
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/yassine-kalai-ezzar-39b03a257" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://bsky.app/profile/Yassine" target="_blank">
-  <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
-</a>
+<p>
+  <a href="https://sovanto.de"><img src="https://img.shields.io/badge/sovanto.de-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://linkedin.com/in/yassine-kalai-ezzar-39b03a257"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yassinekalaiezzar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+</div>
 
-## 📊 GitHub Stats
+## 👨‍💻 About me
+
+I build software end to end — from the database to the app in the user's hand — and I ship it to production.
+
+I'm the founder of **[Sovanto](https://sovanto.de)**, a multi-tenant SaaS platform for small businesses that I design, build and run on my own, while studying **Media Informatics at BHT Berlin**. My core stack is **Java / Spring Boot** on the backend and **React / Next.js / TypeScript** on the frontend, and I like adding AI where it genuinely saves people time.
+
+```yaml
+based_in:   Cologne/Berlin , Germany
+building:   Sovanto — POS, inventory, CRM, ticketing & AI assistant in one platform
+studying:   B.Sc. Media Informatics @ BHT Berlin
+languages:  German · French · English · Arabic
+open_to:    interesting projects & collaboration
+```
+
+## 🚀 Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://sovanto.de">Sovanto Platform</a></h3>
+      <img src="https://img.shields.io/badge/status-live-22C55E?style=flat-square" alt="Live" />
+      <p>Multi-tenant SaaS with a module catalog — POS, inventory, CRM, ticketing and an AI assistant. Barcode scanning for fast part lookup and AI-powered search. Runs on web, Android and desktop.</p>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://stouchi.tn">Stouchi.tn</a></h3>
+      <img src="https://img.shields.io/badge/status-live-22C55E?style=flat-square" alt="Live" />
+      <p>All-in-one e-commerce platform for a fashion brand, built from scratch: shop, order handling and automated customer messaging via email and WhatsApp.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+      <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Calendera</h3>
+      <img src="https://img.shields.io/badge/status-project-3B82F6?style=flat-square" alt="Project" />
+      <p>AI calendar assistant — manage appointments in natural language on the web or via Telegram, with Google Calendar sync and travel-aware conflict detection.</p>
+      <img src="https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>SmartMailer</h3>
+      <img src="https://img.shields.io/badge/status-side_project-64748B?style=flat-square" alt="Side project" />
+      <p>AI email automation. <i>FlashApply</i> turns a job posting URL into a complete application — cover letter, email and PDF — in seconds.</p>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square&logo=openai&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Tech stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YassineKalaiEzzar&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YassineKalaiEzzar&theme=react&hide_border=false" />
+<img src="https://skillicons.dev/icons?i=java,spring,ts,js,py,react,nextjs,nestjs,tailwind,flutter,dart&perline=11" alt="Languages and frameworks" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,cloudflare,git,maven,postman,idea,vscode,androidstudio&perline=11" alt="Databases, infrastructure and tools" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineKalaiEzzar&theme=react&hide_border=false&layout=compact&langs_count=8" />
+<br/>
+
+**AI & APIs:** Gemini · Claude · Groq · WhatsApp · Telegram Bot · Google Calendar · REST · WebSocket
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
+## 📊 GitHub activity
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=YassineKalaiEzzar&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YassineKalaiEzzar&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=C9D1D9" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineKalaiEzzar&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9" alt="Top languages" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YassineKalaiEzzar&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=06B6D4&area=true&area_color=7C3AED&hide_border=true" alt="Contribution graph" />
 
 </div>
 
----
-
-<div align="center">
-
-### ✨ "First, solve the problem. Then, write the code." ✨
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=110&section=footer" width="100%" alt="" />
