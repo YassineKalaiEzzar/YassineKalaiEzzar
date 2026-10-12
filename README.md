@@ -84,15 +84,5 @@ open_to:    interesting projects & collaboration
 
 </div>
 
-## 📊 GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YassineKalaiEzzar&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=C9D1D9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineKalaiEzzar&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9" alt="Top languages" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YassineKalaiEzzar&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=06B6D4&area=true&area_color=7C3AED&hide_border=true" alt="Contribution graph" />
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=110&section=footer" width="100%" alt="" />
